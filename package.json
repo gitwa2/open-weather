@@ -1,6 +1,6 @@
 {
   "name": "hero-open-weather",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple module to fetch weather data using latitude and longitude.",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,9 @@
     "weather-api",
     "open-meteo",
     "weather-forecast"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitwa2/open-weather.git"
+  }
 }
