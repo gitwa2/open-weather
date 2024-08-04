@@ -1,5 +1,5 @@
 
-# open-weather
+# hero-open-weather
 
 A simple module to fetch weather data using latitude and longitude.
 
@@ -8,17 +8,17 @@ A simple module to fetch weather data using latitude and longitude.
 You can install this package via npm:
 
 ```sh
-npm install open-weather
+npm install hero-open-weather
 ```
 
 ## Usage
 
 ### Importing the Module
 
-To use the `open-weather` module in your project, you need to require it.
+To use the `hero-open-weather` module in your project, you need to require it.
 
 ```js
-const getWeather = require('open-weather');
+const getWeather = require('hero-open-weather');
 ```
 
 ### Fetching Weather Data
@@ -43,10 +43,10 @@ getWeather(latitude, longitude)
 
 ### Full Example
 
-Here's a full example of how to use the `open-weather` package:
+Here's a full example of how to use the `hero-open-weather` package:
 
 ```js
-const getWeather = require('open-weather');
+const getWeather = require('hero-open-weather');
 
 const latitude = 35.6895;
 const longitude = 139.6917;
