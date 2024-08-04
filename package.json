@@ -1,5 +1,5 @@
 {
-  "name": "open-weather",
+  "name": "hero-open-weather",
   "version": "1.0.2",
   "description": "A simple module to fetch weather data using latitude and longitude.",
   "main": "index.js",
